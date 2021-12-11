@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @xidsoft
-- 👀 I’m interested in Technology but no Coding
-- 🌱 I’m currently learning Web Design
-- 💞️ I’m looking to collaborate on New Project
-- 📫 How to reach me xidsoft@gmail.com
+- 👀 I’m interested in Technology
+- 🌱 I’m currently learning Manage Project Technolog Web and Mobile App
+- 💞️ looking vendor on New Project?
+- 📫 mail me on xidsoft@gmail.com ;-)
 
 <!---
 xidsoft/xidsoft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
