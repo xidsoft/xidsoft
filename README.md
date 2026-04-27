@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xidsoft
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Manage Project Technology Web and Mobile App
+- 🌱 I’m currently Technical Assistant
 - 💞️ looking vendor on New Project?
 - 📫 mail me on xidsoft@gmail.com ;-)
 
